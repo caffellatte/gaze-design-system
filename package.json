@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/caffellatte/gaze-design-system/issues"
   },
-  "homepage": "https://github.com/caffellatte/gaze-design-system#readme"
+  "homepage": "https://github.com/caffellatte/gaze-design-system#readme",
+  "devDependencies": {
+    "@storybook/addon-options": "^5.3.21",
+    "@storybook/react": "^6.2.9",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
