@@ -1,0 +1,23 @@
+{
+  "name": "gaze-design-system",
+  "version": "0.0.1",
+  "description": "Reliable design system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caffellatte/gaze-design-system.git"
+  },
+  "keywords": [
+    "design",
+    "system"
+  ],
+  "author": "Mikhail Lutsenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caffellatte/gaze-design-system/issues"
+  },
+  "homepage": "https://github.com/caffellatte/gaze-design-system#readme"
+}
